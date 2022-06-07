@@ -21,4 +21,4 @@ Max UART baud rate is 1M. Use baud rate of 115200 for Client Control.
 
 External 32 kHz LPO is used by default. To operate without external LPO, set USE\_32K\_EXTERNAL\_LPO=0 on the make command line or edit the default value in CYBT-223058-EVAL.mk.
 
-For more information, see [CYBT-223058-EVAL](https://www.cypress.com/products/ble-bluetooth)
+For more information, see [CYBT-223058-EVAL](https://www.infineon.com/cms/en/product/evaluation-boards/cybt-223058-eval)
